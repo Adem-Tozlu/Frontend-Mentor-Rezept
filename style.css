@@ -40,6 +40,9 @@ h1,h2{
     font-family:"Young Serif";
     font-weight: 400;
 }
+h1{
+    color: var(--color-neutral-dark-charcoal);
+}
 h2{
     color: var(--color-primary-nutmeg);
   
@@ -48,7 +51,10 @@ h3{
     color: var(--color-primary-dark-raspberry);
 }
 .preparation{
+    border-radius: 1rem;
+    padding: 1rem;
     width: 17rem;
+    height: 12rem;
     background-color: var(--color-neutral-rose-white)
 }
 span{
@@ -60,4 +66,28 @@ ol li::marker{
 }
 li{
     padding: 0.5rem;
+}
+
+.nutrition h2,.instructions h2{
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--color-neutral-light-grey);
+
+}
+.nutrition-table p{
+    display: grid;
+grid-template-columns: 1fr 1fr;
+   padding-bottom: 1rem;
+    padding-left: 2rem;
+border-bottom: 1px solid var(--color-neutral-light-grey);
+}
+.nutrition-table p:first-child{
+    padding-top: 0.5rem;
+}
+
+.nutrition-table p:last-child{
+    border-bottom: none;
+}
+.nutrition-table p span {
+color: var(--color-primary-nutmeg);
+
 }
