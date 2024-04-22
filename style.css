@@ -13,3 +13,51 @@
 
 
 }
+body{
+    
+  background-color: var(--color-neutral-white);
+margin: 0;
+    font-size: 16px;
+ font-family: "Outfit";
+color:var(--color-neutral-wenge-brown) ;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+}
+img{
+   
+    width: 100%;
+}
+.body{
+  
+ width: 90%;
+
+}
+h1,h2{
+    font-family:"Young Serif";
+    font-weight: 400;
+}
+h2{
+    color: var(--color-primary-nutmeg);
+  
+}
+h3{
+    color: var(--color-primary-dark-raspberry);
+}
+.preparation{
+    width: 17rem;
+    background-color: var(--color-neutral-rose-white)
+}
+span{
+    font-weight: bold;
+}
+ol li::marker{
+    color: var(--color-primary-nutmeg);
+    font-weight: bold;
+}
+li{
+    padding: 0.5rem;
+}
