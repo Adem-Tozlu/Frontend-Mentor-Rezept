@@ -47,7 +47,7 @@ Over the course of this project, I developed my Flexbox skills and learned to us
 
 In the future, I plan to continue improving my CSS skills, especially when it comes to Flexbox and Grid. My goal is to create more complex websites and make them more engaging. In addition, I would also like to work on my skills in creating animations and develop myself further in this area. I'm currently in the process of learning Javascript so I can use it in my projects.
 
-##Author
+## Author
 
 - Website - [Github](https://github.com/Adem-Tozlu)
 - Frontend Mentor – [@Adem-Tozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)
