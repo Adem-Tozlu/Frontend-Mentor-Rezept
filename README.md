@@ -19,7 +19,7 @@ This is a solution to the [Recipe Page Challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Screenshot](design/desktop-view.png)
+![Screenshot](./desktop-ansicht.png)
 
 ### Left
 
