@@ -1,4 +1,4 @@
-# Frontend Mentor – QR-Code-Komponentenlösung
+# Frontend Mentor – Rezeptseitenlösung
 
 Dies ist eine Lösung für die [Recipe Page Challenge auf Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend-Mentor-Herausforderungen helfen Ihnen, Ihre Programmierfähigkeiten zu verbessern, indem Sie realistische Projekte erstellen.
 
