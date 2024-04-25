@@ -36,7 +36,7 @@ This is a solution to the [Recipe Page Challenge on Frontend Mentor](https://www
 - Mobile-first workflow
 
 
-### What I have learned
+### What I learned
 
 
 Over the course of this project, I developed my Flexbox skills and learned to use them effectively. In addition, I learned how to design the numbering in an ordered list. I have expanded my technical skills and am now able to give and receive feedback, which has been extremely valuable for both my personal and professional development.
