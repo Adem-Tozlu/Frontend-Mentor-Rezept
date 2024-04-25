@@ -4,20 +4,20 @@ Dies ist eine Lösung für die [Recipe Page Challenge auf Frontend Mentor](https
 
 ## Inhaltsverzeichnis
 
-- [Übersicht](#Übersicht)
+- [Übersicht](#übersicht)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Mein Prozess](#my-process)
-  - [Erstellt mit](#built-with)
-  - [Was ich gelernt habe](#what-i-learned)
-  - [Fortsetzung der Entwicklung](#continued-development)
-- [Autor](#Autor)
+- [Mein Prozess](#mein-prozess)
+  - [Erstellt mit](#erstellt-mit)
+  - [Was ich gelernt habe](#was-ich-gelernt-habe)
+  - [Fortsetzung der Entwicklung](#weiterentwicklung)
+- [Autor](#autor)
 
 
 
 ## Überblick
 
-### Bildschirmfoto
+### Screenshot
 
 ![Screenshot](design/desktop-ansicht.png)
 
@@ -28,7 +28,7 @@ Dies ist eine Lösung für die [Recipe Page Challenge auf Frontend Mentor](https
 
 ## Mein Prozess
 
-### Gebaut mit
+### Erstellt mit
 
 - Semantisches HTML5-Markup
 - Benutzerdefinierte CSS-Eigenschaften

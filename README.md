@@ -4,14 +4,14 @@ This is a solution to the [Recipe Page Challenge on Frontend Mentor](https://www
 
 ## Table of contents
 
-- [Overview](#Overview)
+- [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My Process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued Development](#continued-development)
-- [Author](#Author)
+- [Author](#author)
 
 
 
@@ -42,7 +42,7 @@ This is a solution to the [Recipe Page Challenge on Frontend Mentor](https://www
 Over the course of this project, I developed my Flexbox skills and learned to use them effectively. In addition, I learned how to design the numbering in an ordered list. I have expanded my technical skills and am now able to give and receive feedback, which has been extremely valuable for both my personal and professional development.
 
 
-### Further development
+### Continued development
 
 
 In the future, I plan to continue improving my CSS skills, especially when it comes to Flexbox and Grid. My goal is to create more complex websites and make them more engaging. In addition, I would also like to work on my skills in creating animations and develop myself further in this area. I'm currently in the process of learning Javascript so I can use it in my projects.
