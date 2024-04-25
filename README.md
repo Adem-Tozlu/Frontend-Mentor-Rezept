@@ -6,7 +6,7 @@ This is a solution to the [Recipe Page Challenge on Frontend Mentor](https://www
 
 - [Overview](#Overview)
   - [Screenshot](#screenshot)
-  - [Left](#left)
+  - [Links](#links)
 - [My Process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -21,7 +21,7 @@ This is a solution to the [Recipe Page Challenge on Frontend Mentor](https://www
 
 ![Screenshot](design/desktop-ansicht.png)
 
-### Left
+### Links
 
 - Solution URL: [Github Solutions](https://github.com/Adem-Tozlu/Frontend-Mentor-Recipe)
 - Live Site URL: [Website Repice Page](https://frontend-mentor-rezept.vercel.app/)
